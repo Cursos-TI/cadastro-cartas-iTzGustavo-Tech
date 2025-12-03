@@ -39,6 +39,8 @@ int main() {
     printf("Número de Pontos Tusrísticos: ");
     scanf("%f", &pontost1);
 
+    prinf("^^");
+
 
   // Área para exibição dos dados da cidade
 
